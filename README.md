@@ -1,2 +1,2 @@
-# GBM-and-Monte-Carlo-sim-
+# GBM-and-Monte-Carlo-Simulation
 Python program for simulating Geometric Brownian Motion (GBM) using Monte Carlo method with visualization for asset risk measurement and stochastic modeling
